@@ -1,0 +1,9 @@
+format: jb-article
+root: signaux.md
+
+sections:
+- file: notebook/description
+- file: notebook/sinusoides
+- file: notebook/decomposition
+- file: notebook/usuels
+- file: notebook/ex_app
