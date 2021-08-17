@@ -79,6 +79,7 @@ __2.__
 ```{figure} ./images/exo_freq_scie.png
 :name: freq_scie
 :align: center
+:width: 60%
 ```
 
 __3.__
@@ -113,6 +114,7 @@ __2.__
 ```{figure} ./images/exo_freq_redress.png
 :name: freq_redressement
 :align: center
+:width: 60%
 ```
 
 __3.__

@@ -85,6 +85,7 @@ L'indice s est marqué ici pour bien montrer que les fréquences et les amplitud
 ```{figure} ./images/spectre_sinus_cube.png
 :name: sinus_cube
 :align: center
+:width: 50%
 Spectre du sinus cube
 ```
 Le spectre de la fonction $sin^3$ est $\{(f_1 = \frac{1}{2\pi}, c(f_1) =\frac{3}{4}),(f_2 = \frac{3}{2\pi}, c(f_2) =\frac{1}{4})\}$.
@@ -100,6 +101,7 @@ Le spectre de la fonction $sin^3$ est $\{(f_1 = \frac{1}{2\pi}, c(f_1) =\frac{3}
 ```{figure} ./images/spectre_creneau.png
 :name: spectre_creneau
 :align: center
+:width: 50%
 Spectre d'un créneau
 ```
 Le spectre de la fonction créneau $s(t) = \begin{cases} A \textrm{ si }x \in [0;T/2]\\ -A  \textrm{ si }x \in [T/2;T]\end{cases}$ fait correspondre aux fréquences $\frac{2n+1}{T}$ l'amplitude $\frac{4A}{\pi(2n+1)}$ avec $n \in \mathbb{N}$.
@@ -155,6 +157,7 @@ Le signal lent de fréquence $f_2$ est appelé __signal modulant__ et le signal 
 ```{figure} ./images/temporelle_module.png
 :name: modulation
 :align: center
+:width: 50%
 Modulation d'amplitude
 ```
 >__3.__
@@ -169,6 +172,7 @@ $$
 ```{figure} ./images/spectre_module.png
 :name: spectre_mod
 :align: center
+:width: 50%
 Spectre du signal modulé
 ```
 ````
@@ -242,6 +246,7 @@ $$
 ```{figure} ./images/spectre_triangle_freq.png
 :name: triangle_freq
 :align: center
+:width: 50%
 Fréquences du signal
 ```
 
@@ -254,6 +259,7 @@ On trace alors la fonction $c(f)$ et on trace des traits représentant les ampli
 ```{figure} ./images/spectre_triangle.png
 :name: triangle_freq_2
 :align: center
+:width: 50%
 Fréquences du signal
 ```
 ````
