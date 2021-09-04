@@ -46,7 +46,8 @@ On peut décomposer un signal en une somme infinie discrète de signaux sinusoï
 $$
 s(t) = \begin{cases} A \textrm{ si }x \in [0;T/2]\\ -A  \textrm{ si }x \in [T/2;T]\end{cases}
 $$
-	et reproduit à l'infini (signal créneau) peut s'écrire comme la somme :
+
+et reproduit à l'infini (signal créneau) peut s'écrire comme la somme :
 
 $$
 s(t) = \frac{4 A}{\pi} \sum\limits_{n=0}^{+ \infty} \frac{1}{2n + 1} \sin{[(2n+1) \frac{2 \pi}{T}t]}
@@ -92,7 +93,7 @@ Le spectre de la fonction $sin^3$ est $\{(f_1 = \frac{1}{2\pi}, c(f_1) =\frac{3}
 
 ```{dropdown} Remarques
 * On pourrait écrire plus simplement $\{(\frac{1}{2\pi}, \frac{3}{4}),( \frac{3}{2\pi}, \frac{1}{4})\}$
-* On tient pas compte du signe (-) car__ l'amplitude est toujours définie comme positive__. Le signe modifie la phase à l'origine (de $\pi$) mais celà n'apparaît pas dans le spectre.
+* On tient pas compte du signe (-) car __l'amplitude est toujours définie comme positive__. Le signe modifie la phase à l'origine (de $\pi$) mais celà n'apparaît pas dans le spectre.
 ```
 ````
 

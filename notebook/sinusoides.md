@@ -191,7 +191,7 @@ Donner les caractéristiques (période, fréquence, pulsation, amplitude, valeur
 
 La valeur moyenne d'un signal sinusoïdal de la forme $s(t) = S_m \cos{(\omega t + \phi)}$ est __nulle__.
 
-Si l'on ajoute au signal une valeur constante $S_0$, alors__ la valeur moyenne est ____$S_0$__, d'où le nom de valeur moyenne.
+Si l'on ajoute au signal une valeur constante $S_0$, alors __la valeur moyenne est $S_0$__, d'où le nom de valeur moyenne.
 
 La valeur efficace d'un signal sinusoïdal de la forme $s(t) = S_m \cos{(\omega t + \phi)}$ est :
 

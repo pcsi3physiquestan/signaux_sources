@@ -166,5 +166,5 @@ $$
 ````
 ````{danger}
 :class: dropdown
-On remarquera que $S_{eff} \ne \sqrt{\left\langle s \right\rangle}$
+On remarquera que $S_{eff} \ne \sqrt{\left\langle s \right\rangle^2}$
 ````
