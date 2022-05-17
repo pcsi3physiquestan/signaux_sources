@@ -18,8 +18,7 @@ kernelspec:
 
 ## Signal physique
 
-````{admonition} Définition : Signal physique
-:class: tip
+````{important} __Définition : Signal physique__
 Un signal physique est une représentation physique qui transporte une "information" depuis une source vers un destinataire.
 ````
 
@@ -44,8 +43,7 @@ Les signaux présentés ici ne sont pas exhaustifs et les grandeurs associées n
 
 ## Signal numérique et analogique
 
-````{admonition} Définition : Signal analogique
-:class: tip
+````{important} __Définition : Signal analogique__
 Un signal analogique est un signal à "temps continu", c'est-à-dire qu'il peut être représenté par une fonction mathématique à variable réelle (en général le temps):
 
 \begin{align}
@@ -54,8 +52,7 @@ Un signal analogique est un signal à "temps continu", c'est-à-dire qu'il peut 
 \end{align}
 ````
 
-````{admonition} Définition : Signal numérique
-:class: tip, dropdown
+````{important} __Définition : Signal numérique, dropdown__
 Un signal numérique est un signal à "temps discret", c'est-à-dire qu'il n'est connu que pour des instants successifs. Sa représentation est alors une série de valeur successive (une suite):
 
 \begin{align*}
@@ -67,8 +64,7 @@ En général, l'indice n est associé à un temps de mesure.
 
 ## Signal périodique
 
-````{admonition} Définition : Signal périodique
-:class: tip
+````{important} __Définition : Signal périodique__
 
 Un signal analogique est dit périodique s'il existe une grandeur T telle que pour tout instant t on a l'égalité: $s(t+T)=s(t)$
 
@@ -76,8 +72,7 @@ La grandeur T est appelée __période__ du signal et son inverse f=1/T est la __
 
 ````
 
-````{admonition} Définition : Valeur moyenne d'un signal périodique
-:class: tip
+````{important} __Définition : Valeur moyenne d'un signal périodique__
 
 La valeur moyenne d'un signal périodique est définie par:
 
@@ -88,8 +83,7 @@ $$
 On peut interpréter une telle valeur comme la valeur constante que devrait avoir une fonction constante qui aurait la même aire sous la courbe. D'où le nom de valeur moyenne.
 ````
 
-````{admonition} Définition : Valeur efficace d'un signal périodique
-:class: tip
+````{important} __Définition : Valeur efficace d'un signal périodique__
 
 La valeur efficace d'un signal périodique est définie par:
 
@@ -100,8 +94,7 @@ $$
 L'interprétation de cette grandeur est plus délicate (considérations énergétiques). Elle sera présentée par la suite.
 ````
 
-````{admonition} Fondamental : Propriété de la valeur moyenne (Admis)
-:class: important
+````{important} __Fondamental : Propriété de la valeur moyenne (Admis)__
 La valeur moyenne est un opérateur linéaire. Ainsi pour deux signaux $s_1(t)$ et $s_2(t)$. La valeur moyenne du signal $s(t) = \lambda_1 s_1(t) + \lambda_2 s_2(t)$ est :
 
 $$

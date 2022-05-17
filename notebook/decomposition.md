@@ -19,8 +19,7 @@ kernelspec:
 ## Principe de la décomposition spectrale
 
 
-````{admonition} Principe général
-:class: important
+````{important} Principe général
 Le principe de la décomposition spectrale est de décomposer un signal $s(t)$ en une somme de signaux sinusoïdaux de __fréquences différentes.__
 ````
 
@@ -70,8 +69,7 @@ Comme le montre l'exemple du signal créneau, il convient de ne pas confondre la
 
 ## Spectre d'une fonction
 
-````{admonition} Fondamental : Spectre d'un signal
-:class: important
+````{important} __Fondamental : Spectre d'un signal__
 
 Pour une fonction s(t) à spectre discret, on appelle spectre de s, l'ensemble des couples $\{(f_s,c_S(f))\}$ associant chaque fréquence f des sinusoïdes de la décomposition spectrale à leur amplitude $c_S(f)$.
 
@@ -181,8 +179,7 @@ Spectre du signal modulé
 
 ## Décomposition des signaux périodiques : Série de Fourier
 
-````{admonition} Fondamental : Décomposition en série de Fourier
-:class: important
+````{important} __Fondamental : Décomposition en série de Fourier__
 
 Tout signal périodique s(t) de période T se décompose en une somme infinie (série) de cosinus et de sinus de périodes T/n où n est un entier. On appelle la série correspondante: série de Fourier.
 

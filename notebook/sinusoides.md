@@ -17,8 +17,7 @@ kernelspec:
 # Signaux sinusoïdaux
 
 
-````{admonition} Définition : Forme mathématique d'un signal sinusoïdal
-:class: tip
+````{important} __Définition : Forme mathématique d'un signal sinusoïdal__
 
 Un signal analogique est dit sinusoïdal, si la fonction décrivant la grandeur associée est de la forme :
 
@@ -27,8 +26,7 @@ s(t) = S_m \cos \left ( \omega t +\phi_0 \right )
 \end{equation}
 ````
 
-````{admonition} Fondamental : Caractéristiques d'un signal sinusoïdal
-:class: important
+````{important} __Fondamental : Caractéristiques d'un signal sinusoïdal__
 
 L'expression mathématique précédente fait apparaître des caractéristiques d'un sinusoïde :
 
@@ -67,8 +65,7 @@ Sinusoïde avec valeur moyenne
 
 ## Signal sinusoïdal - Représentation de Fresnel
 
-````{admonition} Fondamental : Représentation de Fresnel d'un signal sinusoïdal
-:class: important
+````{important} __Fondamental : Représentation de Fresnel d'un signal sinusoïdal__
 
 La représentation de Fresnel de la grandeur sinusoïdale s(t) à l'instant t est la représentation dans un plan d'un vecteur $\overrightarrow{S}$ tel que :
 * la norme est l'amplitude de s(t) $S_m$
@@ -186,8 +183,7 @@ Donner les caractéristiques (période, fréquence, pulsation, amplitude, valeur
 
 ## Propriété : Valeurs moyennes et efficaces des sinusoïdes
 
-````{admonition} Fondamental
-:class: important
+````{important} __Fondamental__
 
 La valeur moyenne d'un signal sinusoïdal de la forme $s(t) = S_m \cos{(\omega t + \phi)}$ est __nulle__.
 
@@ -221,8 +217,7 @@ S_{eff} & = \sqrt{\frac{2}{T} \int_{t=0}^{t=T/2} S_m^2 \cos^2{(\omega t + \phi)}
 \end{align*}
 
 
-````{admonition} Fondamental : Valeur efficace d'une somme de deux sinusoïdes
-:class: important
+````{important} __Fondamental : Valeur efficace d'une somme de deux sinusoïdes__
 Si l'on somme deux sinusoïdes de __fréquences différentes__ et d'amplitude respectives $S_{1,eff}$ et $S_{2,eff}$ alors la valeur efficace de la somme sera :
 
 $$
@@ -247,8 +242,7 @@ __Si les deux sinusoïdes sont de même pulsation, la propriété n'est plus vra
 
 ## Déphasage en signaux sinusoïdaux
 
-````{admonition} Définition : Déphasage
-:class: tip
+````{important} __Définition : Déphasage__
 
 On considère deux signaux sinusoïdaux dont les phases sont $\varphi_1$ et $\varphi_2$. Le déphasage $\Delta \varphi_{2/1}$ du signal 2 sur le signal 1 est défini par
 
@@ -278,8 +272,7 @@ On observe que si les deux signaux sont de même fréquence/pulsation/période, 
 Le but de cet exercice est de comprendre la notion de déphasage et les méthodes d'études associées.
 
 
-````{admonition} Fondamental : Relation entre déphasage et retard temporel
-:class: important
+````{important} __Fondamental : Relation entre déphasage et retard temporel__
 Soit deux signaux sinusoïdaux de même pulsation $\omega$, d'amplitude respectives $S_1$ et $S_2$ et de phase à l'origine respectives $\phi_1$ et $\phi_2$. Le retard temporel $\Delta t$ du signal 2 sur le signal 1, représentant l'écart temporel relatif entre deux points des signaux ayant la valeur est relié au déphasage par:
 
 $$
