@@ -15,12 +15,7 @@ kernelspec:
 ---
 
 # Description des signaux physiques
-
-Ce chapitre présente les méthodes de description mathématique des signaux :
-* la méthode déjà connue de description __temporelle__ $s(t)$
-* la méthode de description __fréquentielle__
-
-````{admonition} Objectifs
+````{admonition} Compétences
 :class: tip
 * Savoir que l'on peut décomposer un signal périodique en une somme de fonction sinusoïdales
 * Déterminer les caractéristiques d'un signal sinusoïdal par son expression mathématique
@@ -32,5 +27,4 @@ Ce chapitre présente les méthodes de description mathématique des signaux :
 * Linéariser un produit de sinusoïde pour déterminer le spectre du signal
 * Citer les différentes gammes de fréquences pour les types de signaux usuels (électromagnétiques, sonores... )
 * Caractériser une source lumineuse par son spectre.
-
 ````

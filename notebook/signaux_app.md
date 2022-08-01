@@ -14,7 +14,7 @@ kernelspec:
   name: python3
 ---
 
-# Exercices d'applications. signaux physiques
+# Applications
 
 Contrairement aux exercices du cours qui détaillent les raisonnements pour expliquer les méthodes, seules les réponses finales sont données ici. __Il faut s'entraîner à résoudre soi-même tous les exercices proposés ici AVANT DE REGARDER LES RÉPONSES.__
 
@@ -30,7 +30,7 @@ On considère un signal $u_1$ sinusoïdal de période $T_1$ et d'amplitude $u_{1
 3. Déterminer le spectre de $u_S$.
 ````
 
-````{dropdown} Eléments de correction
+````{topic} Eléments de correction
 __1.__
 \begin{align}
 	u_1(t) = u_{1m} \cos \left ( \frac{2\pi}{T_1} t \right )\\
@@ -71,7 +71,7 @@ $$
 2. Représenter le spectre de Fourier du signal.
 3. Que vaut la valeur moyenne du signal ?
 ````
-````{dropdown} Eléments de correction
+````{topic} Eléments de correction
 __1.__
 $T = \frac{2\pi}{\omega}$ attention à bien le justifier.
 
@@ -106,7 +106,7 @@ $$
 3. Que vaut la valeur moyenne du signal ?
 ````
 
-````{dropdown}
+````{topic} Eléments de correction
 __1.__
 $T = \frac{2\pi}{\omega}$ attention à bien le justifier.
 
@@ -120,3 +120,5 @@ __2.__
 __3.__
 Valeur moyenne $\frac{V_m}{\pi}$.
 ````
+
+__Des exercices d'approfondissement qui pour être utiles pour la suite du cours sont dispnibles [en ligne](https://stanislas.edunao.com/mod/resource/view.php?id=12806).__

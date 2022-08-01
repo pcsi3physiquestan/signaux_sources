@@ -2,8 +2,14 @@ format: jb-article
 root: signaux.md
 
 sections:
-- file: notebook/description
-- file: notebook/sinusoides
-- file: notebook/decomposition
-- file: notebook/usuels
-- file: notebook/ex_app
+- file: notebook/signaux_contxt
+  sections:
+  - file: notebook/signaux_description
+  - file: notebook/signaux_sinusoides
+  - file: notebook/signaux_decomposition
+  - file: notebook/signaux_usuels
+- file: notebook/signaux_ex
+  sections:
+  - file: notebook/signaux_exemples
+  - file: notebook/signaux_meth_modulation
+  - file: notebook/signaux_app
