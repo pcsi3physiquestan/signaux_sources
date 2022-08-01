@@ -23,9 +23,9 @@ __Forme mathématique d'un signal sinusoïdal__
 
 Un signal analogique est dit sinusoïdal, si la fonction décrivant la grandeur associée est de la forme :
 
-\begin{equation}
+$$
 s(t) = S_m \cos \left ( \omega t +\phi_0 \right )
-\end{equation}
+$$
 
 L'expression mathématique précédente fait apparaître des caractéristiques d'un sinusoïde :
 
