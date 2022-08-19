@@ -14,7 +14,7 @@ kernelspec:
   name: python3
 ---
 
-# Exemples : Calculs divers
+# Méthodes : Calculs divers
 _Les corrections sont en ligne._
 
 ## Valeur efficace et valeur moyenne

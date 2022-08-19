@@ -95,9 +95,13 @@ Le spectre de la fonction $sin^3$ est $\{(f_1 = \frac{1}{2\pi}, c(f_1) =\frac{3}
 :width: 50%
 Spectre d'un créneau
 ```
-Le spectre de la fonction créneau $s(t) = \begin{cases} A \textrm{ si }x \in [0;T/2]\\ -A  \textrm{ si }x \in [T/2;T]\end{cases}$ fait correspondre aux fréquences $\frac{2n+1}{T}$ l'amplitude $\frac{4A}{\pi(2n+1)}$ avec $n \in \mathbb{N}$.
+Le spectre de la fonction créneau $s(t) = \begin{cases} A \textrm{ si }x \in [0;T/2]\\ -A  \textrm{ si }x \in [T/2;T]\end{cases}$ fait correspondre aux fréquences $f_{2n+1} = \frac{2n+1}{T}$ l'amplitude $\frac{4A}{\pi(2n+1)}=\frac{4A}{\pi T f_{2n+1}}$ avec $n \in \mathbb{N}$.
 
-On peut tracer le spectre en remarquant qu'il s'agit de tracer la fonction $\frac{4A}{\pi T f}$ en fonction de la fréquence $f$ et de ne prendre que les valeurs entières impaires.
+On peut tracer le spectre en remarquant qu'il s'agit de tracer la fonction 
+
+$$f \longrightarrow \frac{4A}{\pi T f}$$
+
+en fonction de la fréquence $f$ et de ne prendre que les valeurs entières impaires.
 ````
 
 ````{important}
@@ -146,8 +150,5 @@ On remarquera et c'est important de le retenir que les harmoniques du signal cr�
 ````
 
 ````{topic} Simulation
-```{hint}
-:class: dropdown
 Vous pourrez trouver ici une [simulation réalisée en Geogebra](https://www.geogebra.org/m/R4FGkE3u) permettant de construction une fonction périodique par sommation de ses composantes de Fourier.
-```
 ````

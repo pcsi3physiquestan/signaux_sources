@@ -13,7 +13,7 @@ kernelspec:
   language: python
   name: python3
 ---
-# Méthode : Etudier une modulation en amplitude.
+# Activité : Etudier une modulation en amplitude.
 _La correction est en ligne et une simulation permet de joueur sur les paramètres d'une modulation est disponible [ici](https://stanislas.edunao.com/mod/resource/view.php?id=12802)._
 
 Nous allons étudier le principe de décomposition sur un cas simple où un signal se décompose en une somme finie de composantes spectrales.
@@ -68,8 +68,9 @@ Spectre du signal modulé
 ```
 ````
 
-```{admonition} A retenir
-:class: tip
+```{important} 
+A retenir
+
 Il faut savoir :
 * reconnaître un cas de modulation d'amplitude : un __produit__ de sinusoïdes dont __la fréquence de l'un est grande devant la fréquence de l'autre__.
     * On peut écrire $u_S(t)$ sous la forme : $ \left [ k u_{1m} u_{2m} \cos (2 \pi f_2 t) \right ] \cos (2 \pi f_1 t)$. Puisque $f_2$ est faible, on peut considérer que sur une période du signal rapide de fréquence $f_1$, la grandeur $k u_{1m} u_{2m} \cos (2 \pi f_2 t)$ est quasi-constante et représente donc sur une période, l'amplitude du sinusoïde $ \cos (2 \pi f_1 t)$. Mais comme d'une période à l'autre l'amplitude varie, on parle de __modulation d'amplitude__.

@@ -121,4 +121,4 @@ __3.__
 Valeur moyenne $\frac{V_m}{\pi}$.
 ````
 
-__Des exercices d'approfondissement qui pour être utiles pour la suite du cours sont dispnibles [en ligne](https://stanislas.edunao.com/mod/resource/view.php?id=12806).__
+__Des exercices d'approfondissement qui pour être utiles pour la suite du cours sont disponibles [en ligne](https://stanislas.edunao.com/mod/resource/view.php?id=12806).__

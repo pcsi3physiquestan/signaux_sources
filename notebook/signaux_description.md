@@ -39,7 +39,7 @@ Les signaux présentés ici ne sont pas exhaustifs et les grandeurs associées n
 ````
 
 ````{topic} Types de signaux
-*__Signal analogique__
+* __Signal analogique__
     *Un signal analogique est un signal à "temps continu", c'est-à-dire qu'il peut être représenté par une fonction mathématique à variable réelle (en général le temps):
 
 \begin{align}
