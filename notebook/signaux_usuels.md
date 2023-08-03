@@ -87,7 +87,7 @@ Différentes spectres
 
 
 ### Gammes spectrales
-````{sidebar}
+````{sidebar} Origine de la propagation
 Les signaux acoustiques sont en général émis grâce à la vibration de systèmes mécaniques: corde vibrante (instruments à cordes), membrane vibrante (percussions, haut-parleur... )...  En modifiant la pression du milieu environnant (en général l'air), il font naître des oscillations de pression/vitesse qui vont se propager de proche en proche. Comme nous l'avons expliqué précédemment, les instruments de musique sont construits généralement pour pouvoir sortir une note de hauteur donnée (fréquence du fondamental) et possédant un timbre (harmoniques).
 
 ````

@@ -42,7 +42,7 @@ Sinusoïde
 ```
 ````
 
-````{sidebar}
+````{sidebar} Remarques
 * On peut utilise la fonction $sin$ au lieu de la fonction cosinus. Il faudra néanmoins adapter la notion de phase à l'origine.
 
 * Il arrive qu'on désigne comme signal sinusoïdal un signal de forme $s(t) = S_m \cos{(\omega t +\phi)} + S_0$ où $S_0$ est appelé valeur moyenne. Ceci est notamment important en TP. Le terme de valeur moyenne a, comme on le verra ensuite, le même sens que la définition précédente.
@@ -61,7 +61,7 @@ Sinusoïde avec valeur moyenne
 
 ## Représentation de Fresnel
 
-````{sidebar}
+````{sidebar} Déphasage constant
 ```{figure} ./images/fresnel.gif
 :name: fresnel_mobile
 :align: center
@@ -125,7 +125,7 @@ S_{eff} & = \sqrt{\frac{2}{T} \int_{t=0}^{t=T/2} S_m^2 \cos^2{(\omega t + \phi)}
 \end{align*}
 ````
 
-````{sidebar}
+````{margin}
 __Si les deux sinusoïdes sont de même pulsation, la propriété n'est plus vraie,__ on peut s'en rendre compte en remarquant que le dernier terme (différences des phases) est alors un terme constant dont la valeur moyenne n'est pas forcément nulle.
 ````
 ````{important} 
