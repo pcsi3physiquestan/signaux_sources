@@ -14,7 +14,7 @@ kernelspec:
   name: python3
 ---
 # Activité : Etudier une modulation en amplitude.
-_La correction est en ligne et une simulation permet de joueur sur les paramètres d'une modulation est disponible [ici](https://stanislas.edunao.com/mod/resource/view.php?id=12802)._
+_La correction est en ligne et une simulation permet de jouer sur les paramètres d'une modulation est disponible [ici](https://moodlecpge.stanislas.fr/mod/resource/view.php?id=134)._
 
 Nous allons étudier le principe de décomposition sur un cas simple où un signal se décompose en une somme finie de composantes spectrales.
 
